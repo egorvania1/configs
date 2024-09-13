@@ -1,3 +1,3 @@
-qtile - autostart.sh config.py
-NixOS - configuration.nix
-fstab - fstab (duh)
+qtile - autostart.sh config.py <br />
+NixOS - configuration.nix <br />
+fstab - fstab (duh) <br />
